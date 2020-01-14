@@ -4,6 +4,6 @@ It was built using Bootstrap template.
 
 
 ## Changes Made
-- Using Gradiant background colors.
-- Using Gradiant background color for hover items.
+- Used Gradiant background color.
+- Used Gradiant background color for hover items.
 
